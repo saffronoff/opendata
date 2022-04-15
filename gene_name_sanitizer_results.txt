@@ -1,0 +1,768 @@
+Input	Status	Suggested Match	Public Name For	Sequence Name For	Molecular Name For	Other Name For	Split Into	Merged Into	History
+qars-1	Live - Unique	WBGene00001336	WBGene00001336						Public name for WBGene00001336. History: Renamed on 2010-01-29
+daf-7	Live - Unique	WBGene00000903	WBGene00000903						Public name for WBGene00000903. History: N.A.
+rrf-1	Live - Unique	WBGene00004508	WBGene00004508						Public name for WBGene00004508. History: N.A.
+pqm-1	Live - Unique	WBGene00004096	WBGene00004096						Public name for WBGene00004096. History: N.A.
+nre-1	Live - Unique	WBGene00045274	WBGene00045274						Public name for WBGene00045274. History: N.A.
+lin-15B	Live - Unique	WBGene00023497	WBGene00023497						Public name for WBGene00023497. History: N.A.
+sad-1	Live - Unique	WBGene00004719	WBGene00004719						Public name for WBGene00004719. History: N.A.
+C27F2.5	Live - Unique	WBGene00016167		WBGene00016167	WBGene00016167				Sequence name for WBGene00016167(vps-22). History: N.A.
+fer-15	Live - Unique	WBGene00004510				WBGene00004510			Other name for WBGene00004510(rrf-3). History: Renamed on 2016-06-06
+daf-2	Live - Unique	WBGene00000898	WBGene00000898						Public name for WBGene00000898. History: N.A.
+rpn-8	Live - Unique	WBGene00004464	WBGene00004464						Public name for WBGene00004464. History: N.A.
+nuo-2	Live - Split	WBGene00020417	WBGene00020417				WBGene00271694		Public name for WBGene00020417. History: Split into T10E9.14(WBGene00271694). History of WBGene00020417: Renamed on 2008-02-26; Renamed on 2015-03-02; Split into "WBGene00271694" on 2017-04-28
+F40G9.11	Live - Unique	WBGene00003510		WBGene00003510	WBGene00003510				Sequence name for WBGene00003510(mxl-2). History: N.A.
+mxl-2	Live - Unique	WBGene00003510	WBGene00003510						Public name for WBGene00003510. History: N.A.
+vps-34	Live - Unique	WBGene00006932	WBGene00006932						Public name for WBGene00006932. History: N.A.
+dpr-1	Live - Unique	WBGene00001062	WBGene00001062						Public name for WBGene00001062. History: N.A.
+Y48G1A.4	Live - Unique	WBGene00021660		WBGene00021660	WBGene00021660				Sequence name for WBGene00021660(nol-14). History: N.A.
+gld-1	Live - Unique	WBGene00001595	WBGene00001595						Public name for WBGene00001595. History: N.A.
+sinh-1	Live - Unique	WBGene00013261	WBGene00013261						Public name for WBGene00013261. History: N.A.
+ins-1	Live - Multiple Gene IDs	WBGene00002084	WBGene00002084			WBGene00002101			Public name for WBGene00002084. History: Renamed on 2006-12-04. Other name for WBGene00002101(ins-18). History: N.A.
+daf-23	Live - Unique	WBGene00000090				WBGene00000090			Other name for WBGene00000090(age-1). History: N.A.
+ddr-2	Live - Unique	WBGene00017381	WBGene00017381						Public name for WBGene00017381. History: Renamed on 2018-03-02
+dod-18	Live - Unique	WBGene00008316	WBGene00008316						Public name for WBGene00008316. History: N.A.
+K08D10.7	Live - Unique	WBGene00019530		WBGene00019530	WBGene00019530				Sequence name for WBGene00019530(scrm-8). History: N.A.
+osm-9	Live - Unique	WBGene00003889	WBGene00003889						Public name for WBGene00003889. History: N.A.
+kri-1	Live - Unique	WBGene00013955	WBGene00013955						Public name for WBGene00013955. History: N.A.
+dod-15	Live - Unique	WBGene00007072				WBGene00007072			Other name for WBGene00007072(ugt-1). History: Renamed on 2004-08-25
+chc-1	Live - Unique	WBGene00011867	WBGene00011867						Public name for WBGene00011867. History: Renamed on 2008-04-30
+C47D12.6	Live - Unique	WBGene00006617		WBGene00006617					Sequence name for WBGene00006617(tars-1). History: Renamed on 2010-01-29
+Y39G10AR.8	Live - Unique	WBGene00021466		WBGene00021466	WBGene00021466				Sequence name for WBGene00021466(eif-2gamma). History: N.A.
+daf-22	Live - Unique	WBGene00013284	WBGene00013284						Public name for WBGene00013284. History: N.A.
+atg-9	Live - Unique	WBGene00020706	WBGene00020706						Public name for WBGene00020706. History: Renamed on 2008-02-29
+T28D6.4	Live - Unique	WBGene00012124	WBGene00012124	WBGene00012124	WBGene00012124				Public name for WBGene00012124. History: N.A.
+clk-10	Live - Unique	WBGene00202510	WBGene00202510						Public name for WBGene00202510. History: N.A.
+daf-16	Live - Unique	WBGene00000912	WBGene00000912						Public name for WBGene00000912. History: N.A.
+hsp-16.11	Live - Unique	WBGene00002017	WBGene00002017						Public name for WBGene00002017. History: N.A.
+pha-4	Live - Unique	WBGene00004013	WBGene00004013						Public name for WBGene00004013. History: N.A.
+rps-11	Live - Unique	WBGene00004480	WBGene00004480						Public name for WBGene00004480. History: N.A.
+ins-22	Live - Unique	WBGene00002105	WBGene00002105						Public name for WBGene00002105. History: N.A.
+isp-1	Live - Unique	WBGene00002162	WBGene00002162						Public name for WBGene00002162. History: N.A.
+ctb-1	Live - Unique	WBGene00000829	WBGene00000829						Public name for WBGene00000829. History: N.A.
+scl-5	Live - Unique	WBGene00008027	WBGene00008027						Public name for WBGene00008027. History: N.A.
+jnk-1	Live - Unique	WBGene00002178	WBGene00002178						Public name for WBGene00002178. History: N.A.
+daf-19	Live - Unique	WBGene00000914	WBGene00000914						Public name for WBGene00000914. History: N.A.
+prmt-1	Live - Unique	WBGene00013766	WBGene00013766						Public name for WBGene00013766. History: N.A.
+aakg-2	Live - Unique	WBGene00020633	WBGene00020633						Public name for WBGene00020633. History: N.A.
+C12D8.10	Live - Unique	WBGene00000102		WBGene00000102					Sequence name for WBGene00000102(akt-1). History: N.A.
+fem-2	Live - Unique	WBGene00001412	WBGene00001412						Public name for WBGene00001412. History: N.A.
+wwp-1	Live - Unique	WBGene00007009	WBGene00007009						Public name for WBGene00007009. History: N.A.
+F20B6.8	Live - Split	WBGene00001994		WBGene00001994			WBGene00303101		Sequence name for WBGene00001994(hpk-1). History: Split into F20B6.10(WBGene00303101). History of WBGene00001994: Split into "WBGene00303101" on 2018-03-06
+hpk-1	Live - Split	WBGene00001994	WBGene00001994				WBGene00303101		Public name for WBGene00001994. History: Split into F20B6.10(WBGene00303101). History of WBGene00001994: Split into "WBGene00303101" on 2018-03-06
+Y39F10C.1	Live - Split	WBGene00021457	WBGene00021457	WBGene00021457			WBGene00206368		Public name for WBGene00021457. History: Split into Y39F10C.3(WBGene00206368). History of WBGene00021457: Split into "WBGene00206368" on 2010-12-09
+rrf-3	Live - Unique	WBGene00004510	WBGene00004510						Public name for WBGene00004510. History: Renamed on 2016-06-06
+cst-1	Live - Unique	WBGene00017472	WBGene00017472						Public name for WBGene00017472. History: N.A.
+unc-64	Live - Unique	WBGene00006798	WBGene00006798						Public name for WBGene00006798. History: Renamed on 2010-04-16
+smk-1	Live - Unique	WBGene00018285	WBGene00018285						Public name for WBGene00018285. History: Renamed on 2007-10-22
+skr-3	Live - Unique	WBGene00004809	WBGene00004809						Public name for WBGene00004809. History: N.A.
+sca-1	Live - Unique	WBGene00004736	WBGene00004736						Public name for WBGene00004736. History: N.A.
+T14G10.1	Live - Unique	WBGene00004091		WBGene00004091					Sequence name for WBGene00004091(pps-1). History: N.A.
+asb-2	Live - Unique	WBGene00000207	WBGene00000207						Public name for WBGene00000207. History: N.A.
+F26E4.9	Live - Unique	WBGene00000371		WBGene00000371	WBGene00000371				Sequence name for WBGene00000371(cox-5B). History: Renamed on 2017-09-05
+nsy-1	Live - Split	WBGene00003822	WBGene00003822				WBGene00303064		Public name for WBGene00003822. History: Split into F59A6.13(WBGene00303064). History of WBGene00003822: Renamed on 2016-10-25; Split into "WBGene00303064" on 2018-03-02; Renamed on 2019-08-02
+rpt-2	Live - Unique	WBGene00004502	WBGene00004502						Public name for WBGene00004502. History: N.A.
+sdf-9	Live - Unique	WBGene00004748	WBGene00004748						Public name for WBGene00004748. History: Renamed on 2006-08-02
+gpa-1	Live - Unique	WBGene00001663	WBGene00001663						Public name for WBGene00001663. History: N.A.
+egl-9	Live - Unique	WBGene00001178	WBGene00001178						Public name for WBGene00001178. History: N.A.
+T19B10.2	Live - Unique	WBGene00011831	WBGene00011831	WBGene00011831	WBGene00011831				Public name for WBGene00011831. History: Renamed on 2005-03-17
+dod-10	Live - Unique	WBGene00008678				WBGene00008678			Other name for WBGene00008678(stdh-2). History: Renamed on 2004-08-25
+let-711	Live - Unique	WBGene00002845	WBGene00002845						Public name for WBGene00002845. History: Renamed on 2007-04-12
+F13G3.7	Live - Split	WBGene00008767	WBGene00008767	WBGene00008767			WBGene00303055		Public name for WBGene00008767. History: Split into F13G3.15(WBGene00303055). History of WBGene00008767: Split into "WBGene00303055" on 2018-03-02
+C42C1.3	Live - Unique	WBGene00016581	WBGene00016581	WBGene00016581					Public name for WBGene00016581. History: N.A.
+cco-1	Live - Unique	WBGene00000371				WBGene00000371			Other name for WBGene00000371(cox-5B). History: Renamed on 2017-09-05
+sod-3	Live - Unique	WBGene00004932	WBGene00004932						Public name for WBGene00004932. History: N.A.
+sod-5	Live - Unique	WBGene00007036	WBGene00007036						Public name for WBGene00007036. History: N.A.
+F20H11.3	Live - Unique	WBGene00003162		WBGene00003162	WBGene00003162				Sequence name for WBGene00003162(mdh-2). History: Renamed on 2010-08-18
+mdh-1	Live - Multiple Gene IDs	WBGene00018491	WBGene00018491			WBGene00003162			Public name for WBGene00018491. History: N.A.. Other name for WBGene00003162(mdh-2). History: Renamed on 2010-08-18
+T10F2.3	Live - Unique	WBGene00006736		WBGene00006736	WBGene00006736				Sequence name for WBGene00006736(ulp-1). History: N.A.
+ulp-1	Live - Unique	WBGene00006736	WBGene00006736						Public name for WBGene00006736. History: N.A.
+daf-18	Live - Unique	WBGene00000913	WBGene00000913						Public name for WBGene00000913. History: N.A.
+pgp-3	Live - Unique	WBGene00003997	WBGene00003997						Public name for WBGene00003997. History: N.A.
+F43D2.1	Live - Unique	WBGene00009650		WBGene00009650	WBGene00009650				Sequence name for WBGene00009650(ccnk-1). History: N.A.
+C03D6.3	Live - Unique	WBGene00000466		WBGene00000466					Sequence name for WBGene00000466(cel-1). History: N.A.
+cel-1	Live - Multiple Gene IDs	WBGene00000466	WBGene00000466			WBGene00001368			Public name for WBGene00000466. History: N.A.. Other name for WBGene00001368(exc-7). History: Renamed on 2004-11-09
+F57B10.3	Live - Unique	WBGene00019001		WBGene00019001					Sequence name for WBGene00019001(ipgm-1). History: N.A.
+mdt-15	Live - Split	WBGene00007016	WBGene00007016				WBGene00303073		Public name for WBGene00007016. History: Split into R12B2.13(WBGene00303073). History of WBGene00007016: Split into "WBGene00303073" on 2018-03-02
+xbp-1	Live - Unique	WBGene00006959	WBGene00006959						Public name for WBGene00006959. History: N.A.
+nhr-49	Live - Unique	WBGene00003639	WBGene00003639						Public name for WBGene00003639. History: N.A.
+lbp-7	Live - Unique	WBGene00002259	WBGene00002259						Public name for WBGene00002259. History: N.A.
+Y56A3A.1	Live - Unique	WBGene00003826		WBGene00003826					Sequence name for WBGene00003826(ntl-3). History: N.A.
+ntl-3	Live - Unique	WBGene00003826	WBGene00003826						Public name for WBGene00003826. History: N.A.
+atp-4	Live - Unique	WBGene00020275	WBGene00020275						Public name for WBGene00020275. History: N.A.
+hsp-16.1	Live - Unique	WBGene00002015	WBGene00002015						Public name for WBGene00002015. History: N.A.
+pas-5	Live - Unique	WBGene00003926	WBGene00003926						Public name for WBGene00003926. History: Renamed on 2009-01-09
+pbs-4	Live - Unique	WBGene00003950	WBGene00003950						Public name for WBGene00003950. History: N.A.
+mek-1	Live - Unique	WBGene00003185	WBGene00003185						Public name for WBGene00003185. History: N.A.
+eak-3	Live - Unique	WBGene00022356	WBGene00022356						Public name for WBGene00022356. History: N.A.
+C25H3.6	Live - Unique	WBGene00016115		WBGene00016115					Sequence name for WBGene00016115(mdt-26). History: N.A.
+Y77E11A.7	Live - Unique	WBGene00022310	WBGene00022310	WBGene00022310					Public name for WBGene00022310. History: N.A.
+daf-15	Live - Unique	WBGene00000911	WBGene00000911						Public name for WBGene00000911. History: N.A.
+dpy-20	Live - Unique	WBGene00001079	WBGene00001079						Public name for WBGene00001079. History: N.A.
+sip-1	Live - Unique	WBGene00004798	WBGene00004798						Public name for WBGene00004798. History: N.A.
+elt-3	Live - Unique	WBGene00001251	WBGene00001251						Public name for WBGene00001251. History: N.A.
+npr-1	Live - Unique	WBGene00003807	WBGene00003807						Public name for WBGene00003807. History: N.A.
+nhr-62	Live - Unique	WBGene00003652	WBGene00003652						Public name for WBGene00003652. History: N.A.
+sir-2.1	Live - Unique	WBGene00004800	WBGene00004800						Public name for WBGene00004800. History: N.A.
+K12D12.2	Live - Unique	WBGene00003789		WBGene00003789	WBGene00003789				Sequence name for WBGene00003789(npp-3). History: N.A.
+npp-3	Live - Unique	WBGene00003789	WBGene00003789						Public name for WBGene00003789. History: N.A.
+F17C11.8	Live - Unique	WBGene00008919		WBGene00008919	WBGene00008919				Sequence name for WBGene00008919(vps-36). History: N.A.
+tag-318	Live - Unique	WBGene00008919				WBGene00008919			Other name for WBGene00008919(vps-36). History: N.A.
+W01B11.3	Live - Unique	WBGene00020915		WBGene00020915	WBGene00020915				Sequence name for WBGene00020915(nol-58). History: Renamed on 2017-08-01
+egl-3	Live - Unique	WBGene00001172	WBGene00001172						Public name for WBGene00001172. History: N.A.
+utx-1	Live - Unique	WBGene00017046	WBGene00017046						Public name for WBGene00017046. History: N.A.
+mnk-1	Live - Unique	WBGene00011304	WBGene00011304						Public name for WBGene00011304. History: N.A.
+dod-16	Live - Unique	WBGene00015044				WBGene00015044			Other name for WBGene00015044(cyp-34A9). History: Renamed on 2004-08-25
+hlh-30	Live - Unique	WBGene00020930	WBGene00020930						Public name for WBGene00020930. History: N.A.
+dod-6	Live - Unique	WBGene00011869	WBGene00011869						Public name for WBGene00011869. History: N.A.
+atf-6	Live - Unique	WBGene00000222	WBGene00000222						Public name for WBGene00000222. History: N.A.
+F55B12.4	Live - Unique	WBGene00010089		WBGene00010089	WBGene00010089				Sequence name for WBGene00010089(hpo-31). History: N.A.
+ctl-1	Live - Unique	WBGene00000830	WBGene00000830						Public name for WBGene00000830. History: N.A.
+ctl-2	Live - Unique	WBGene00000831	WBGene00000831						Public name for WBGene00000831. History: N.A.
+ctl-3	Live - Unique	WBGene00013220	WBGene00013220						Public name for WBGene00013220. History: N.A.
+aakb-1	Live - Unique	WBGene00010115	WBGene00010115						Public name for WBGene00010115. History: N.A.
+sod-1	Live - Unique	WBGene00004930	WBGene00004930						Public name for WBGene00004930. History: N.A.
+sod-2	Live - Unique	WBGene00004931	WBGene00004931						Public name for WBGene00004931. History: N.A.
+sod-4	Live - Unique	WBGene00004933	WBGene00004933						Public name for WBGene00004933. History: N.A.
+F59A3.3	Live - Unique	WBGene00019076		WBGene00019076	WBGene00019076				Sequence name for WBGene00019076(mrpl-24). History: N.A.
+fem-1	Live - Unique	WBGene00001411	WBGene00001411						Public name for WBGene00001411. History: N.A.
+rab-10	Live - Unique	WBGene00004273	WBGene00004273						Public name for WBGene00004273. History: Renamed on 2006-03-23
+R144.4	Live - Unique	WBGene00020094		WBGene00020094					Sequence name for WBGene00020094(wip-1). History: N.A.
+wip-1	Live - Unique	WBGene00020094	WBGene00020094						Public name for WBGene00020094. History: N.A.
+atg-4.2	Live - Unique	WBGene00014080	WBGene00014080						Public name for WBGene00014080. History: N.A.
+cku-80	Live - Unique	WBGene00000520	WBGene00000520						Public name for WBGene00000520. History: N.A.
+jkk-1	Live - Unique	WBGene00002177	WBGene00002177						Public name for WBGene00002177. History: N.A.
+hsp-70	Live - Unique	WBGene00002026	WBGene00002026						Public name for WBGene00002026. History: N.A.
+dct-5	Live - Unique	WBGene00017218	WBGene00017218						Public name for WBGene00017218. History: N.A.
+cul-5	Live - Unique	WBGene00000840	WBGene00000840						Public name for WBGene00000840. History: N.A.
+skr-17	Live - Unique	WBGene00004823	WBGene00004823						Public name for WBGene00004823. History: N.A.
+fasn-1	Live - Unique	WBGene00009342	WBGene00009342						Public name for WBGene00009342. History: Renamed on 2015-03-06
+eat-2	Live - Unique	WBGene00001133	WBGene00001133						Public name for WBGene00001133. History: N.A.
+ins-18	Live - Unique	WBGene00002101	WBGene00002101						Public name for WBGene00002101. History: N.A.
+unc-24	Live - Unique	WBGene00006761	WBGene00006761						Public name for WBGene00006761. History: N.A.
+vit-1	Live - Unique	WBGene00006925	WBGene00006925						Public name for WBGene00006925. History: N.A.
+K08E3.5	Live - Unique	WBGene00010665		WBGene00010665					Sequence name for WBGene00010665(rml-1). History: N.A.
+aakg-3	Live - Unique	WBGene00021527	WBGene00021527						Public name for WBGene00021527. History: N.A.
+lin-35	Live - Unique	WBGene00003020	WBGene00003020						Public name for WBGene00003020. History: N.A.
+aak-2	Live - Unique	WBGene00020142	WBGene00020142						Public name for WBGene00020142. History: N.A.
+F20H11.2	Live - Unique	WBGene00002889		WBGene00002889	WBGene00002889				Sequence name for WBGene00002889(let-765). History: Renamed on 2010-04-09. Public name for Dead gene WBGene00003819. History of WBGene00003819: Merged into "WBGene00002889" on 2010-04-09
+nsh-1	Live - Unique	WBGene00002889				WBGene00002889			Other name for WBGene00002889(let-765). History: Renamed on 2010-04-09
+ZK270.1	Live - Unique	WBGene00004237		WBGene00004237	WBGene00004237				Sequence name for WBGene00004237(ptr-23). History: N.A.
+ptr-23	Live - Unique	WBGene00004237	WBGene00004237						Public name for WBGene00004237. History: N.A.
+elt-1	Live - Unique	WBGene00001249	WBGene00001249						Public name for WBGene00001249. History: N.A.
+dod-14	Live - Unique	WBGene00010791				WBGene00010791			Other name for WBGene00010791(sodh-2). History: Renamed on 2004-08-25
+rps-15	Live - Unique	WBGene00004484	WBGene00004484						Public name for WBGene00004484. History: N.A.
+gcy-35	Live - Unique	WBGene00001555	WBGene00001555						Public name for WBGene00001555. History: N.A.
+smg-1	Live - Unique	WBGene00004879	WBGene00004879						Public name for WBGene00004879. History: N.A.
+ges-1	Live - Unique	WBGene00001578	WBGene00001578						Public name for WBGene00001578. History: Renamed on 2019-05-20
+nhl-1	Live - Unique	WBGene00003597	WBGene00003597						Public name for WBGene00003597. History: N.A.
+nit-1	Live - Unique	WBGene00014206	WBGene00014206						Public name for WBGene00014206. History: N.A.
+mxl-1	Live - Unique	WBGene00003509	WBGene00003509						Public name for WBGene00003509. History: N.A.
+nuo-6	Live - Unique	WBGene00012166	WBGene00012166						Public name for WBGene00012166. History: N.A.
+cep-1	Live - Multiple Gene IDs	WBGene00000467	WBGene00000467			WBGene00000366, WBGene00004048			Public name for WBGene00000467. History: N.A.. Other name for WBGene00000366(cbp-1). History: N.A.. Other name for WBGene00004048(plx-2). History: N.A.
+skr-19	Live - Unique	WBGene00004825	WBGene00004825						Public name for WBGene00004825. History: N.A.
+Y75B8A.33	Live - Unique	WBGene00013563	WBGene00013563	WBGene00013563	WBGene00013563				Public name for WBGene00013563. History: N.A.
+Y54E5A.7	Live - Unique	WBGene00013202		WBGene00013202					Sequence name for WBGene00013202(gid-1). History: N.A.
+D2013.7	Live - Unique	WBGene00001229		WBGene00001229	WBGene00001229				Sequence name for WBGene00001229(eif-3.F). History: N.A.
+spp-1	Live - Unique	WBGene00004986	WBGene00004986						Public name for WBGene00004986. History: N.A.
+skr-15	Live - Unique	WBGene00004821	WBGene00004821						Public name for WBGene00004821. History: N.A.
+B0511.8	Live - Unique	WBGene00044321		WBGene00044321	WBGene00044321				Sequence name for WBGene00044321(mrps-30). History: Renamed on 2011-06-10. Public name for Dead gene WBGene00015234. History of WBGene00015234: Merged into "WBGene00044321" on 2006-06-29
+ogdh-1	Live - Unique	WBGene00020679	WBGene00020679						Public name for WBGene00020679. History: N.A.
+vit-5	Live - Unique	WBGene00006929	WBGene00006929						Public name for WBGene00006929. History: N.A.
+F15E6.1	Live - Unique	WBGene00017482		WBGene00017482	WBGene00017482				Sequence name for WBGene00017482(set-9). History: N.A.
+sea-2	Live - Unique	WBGene00004751	WBGene00004751						Public name for WBGene00004751. History: N.A.
+acs-5	Live - Unique	WBGene00013575	WBGene00013575						Public name for WBGene00013575. History: N.A.
+glp-1	Live - Unique	WBGene00001609	WBGene00001609						Public name for WBGene00001609. History: N.A.
+ubl-5	Live - Unique	WBGene00006726	WBGene00006726						Public name for WBGene00006726. History: N.A.
+F28B3.5	Live - Unique	WBGene00017886		WBGene00017886					Sequence name for WBGene00017886(mfsd-13.1). History: N.A.
+nuo-5	Live - Unique	WBGene00021562	WBGene00021562						Public name for WBGene00021562. History: Renamed on 2008-02-26
+C09B7.2	Live - Unique	WBGene00015621	WBGene00015621	WBGene00015621					Public name for WBGene00015621. History: N.A.
+tes-1	Live - Unique	WBGene00015217	WBGene00015217						Public name for WBGene00015217. History: Renamed on 2010-11-23
+tpk-1	Live - Unique	WBGene00014027	WBGene00014027						Public name for WBGene00014027. History: N.A.
+hsp-16.2	Live - Unique	WBGene00002016	WBGene00002016						Public name for WBGene00002016. History: N.A.
+B0261.4	Live - Unique	WBGene00015092		WBGene00015092					Sequence name for WBGene00015092(mrpl-47). History: N.A.
+cbp-1	Live - Unique	WBGene00000366	WBGene00000366						Public name for WBGene00000366. History: N.A.
+F07A5.1	Live - Unique	WBGene00002136		WBGene00002136					Sequence name for WBGene00002136(inx-14). History: N.A.
+ced-13	Live - Unique	WBGene00000427	WBGene00000427						Public name for WBGene00000427. History: N.A.
+dod-8	Live - Unique	WBGene00007363				WBGene00007363			Other name for WBGene00007363(stdh-1). History: Renamed on 2004-08-25
+C51E3.7	Live - Unique	WBGene00001172		WBGene00001172					Sequence name for WBGene00001172(egl-3). History: N.A.
+ftn-1	Live - Unique	WBGene00001500	WBGene00001500						Public name for WBGene00001500. History: N.A.
+ftn-2	Live - Unique	WBGene00001501	WBGene00001501						Public name for WBGene00001501. History: N.A.
+rpn-11	Live - Unique	WBGene00004467	WBGene00004467						Public name for WBGene00004467. History: N.A.
+vit-4	Live - Unique	WBGene00006928	WBGene00006928						Public name for WBGene00006928. History: N.A.
+amt-2	Live - Unique	WBGene00000134	WBGene00000134						Public name for WBGene00000134. History: N.A.
+iftb-1	Live - Unique	WBGene00010560				WBGene00010560			Other name for WBGene00010560(eif-2beta). History: Renamed on 2017-01-09
+Y42G9A.4	Live - Unique	WBGene00021534		WBGene00021534					Sequence name for WBGene00021534(mvk-1). History: N.A.
+ddl-1	Live - Unique	WBGene00019125	WBGene00019125						Public name for WBGene00019125. History: N.A.
+unc-13	Live - Unique	WBGene00006752	WBGene00006752						Public name for WBGene00006752. History: N.A.
+B0303.9	Live - Unique	WBGene00015130		WBGene00015130	WBGene00015130				Sequence name for WBGene00015130(vps-33.1). History: N.A.
+T20H4.5	Live - Unique	WBGene00020636	WBGene00020636	WBGene00020636	WBGene00020636				Public name for WBGene00020636. History: N.A.
+ifg-1	Live - Unique	WBGene00002066	WBGene00002066						Public name for WBGene00002066. History: N.A.
+atp-3	Live - Unique	WBGene00000230	WBGene00000230						Public name for WBGene00000230. History: N.A.
+cyc-2.1	Live - Unique	WBGene00017121	WBGene00017121						Public name for WBGene00017121. History: N.A.
+dld-1	Live - Unique	WBGene00010794	WBGene00010794						Public name for WBGene00010794. History: N.A.
+rha-2	Live - Unique	WBGene00015525	WBGene00015525						Public name for WBGene00015525. History: N.A.
+fat-5	Live - Unique	WBGene00001397	WBGene00001397						Public name for WBGene00001397. History: N.A.
+fat-6	Live - Unique	WBGene00001398	WBGene00001398						Public name for WBGene00001398. History: N.A.
+T27C4.4	Live - Unique	WBGene00003025		WBGene00003025					Sequence name for WBGene00003025(lin-40). History: Renamed on 2007-03-01. Public name for Dead gene WBGene00001219. History of WBGene00001219: Merged into "WBGene00003025" on 2007-03-01
+egr-1	Live - Unique	WBGene00003025				WBGene00003025			Other name for WBGene00003025(lin-40). History: Renamed on 2007-03-01
+elt-2	Live - Unique	WBGene00001250	WBGene00001250						Public name for WBGene00001250. History: N.A.
+clk-5	Live - Unique	WBGene00202506	WBGene00202506						Public name for WBGene00202506. History: N.A.
+C41G7.1	Live - Unique	WBGene00004887		WBGene00004887					Sequence name for WBGene00004887(smn-1). History: N.A.
+smn-1	Live - Unique	WBGene00004887	WBGene00004887						Public name for WBGene00004887. History: N.A.
+cyc-1	Live - Unique	WBGene00000869	WBGene00000869						Public name for WBGene00000869. History: N.A.
+cchl-1	Live - Unique	WBGene00011527	WBGene00011527						Public name for WBGene00011527. History: N.A.
+R08E3.3	Live - Unique	WBGene00019959	WBGene00019959	WBGene00019959					Public name for WBGene00019959. History: N.A.
+M05B5.2	Live - Unique	WBGene00010870		WBGene00010870	WBGene00010870				Sequence name for WBGene00010870(let-522). History: N.A.
+D1069.3	Live - Unique	WBGene00017037	WBGene00017037	WBGene00017037					Public name for WBGene00017037. History: N.A.
+nhr-105	Live - Unique	WBGene00003695	WBGene00003695						Public name for WBGene00003695. History: N.A.
+rde-1	Live - Unique	WBGene00004323	WBGene00004323						Public name for WBGene00004323. History: N.A.
+vang-1	Live - Unique	WBGene00015171	WBGene00015171						Public name for WBGene00015171. History: Renamed on 2016-08-02
+pbs-6	Live - Unique	WBGene00003952	WBGene00003952						Public name for WBGene00003952. History: N.A.
+skn-1	Live - Unique	WBGene00004804	WBGene00004804						Public name for WBGene00004804. History: Renamed on 2016-01-12; Renamed on 2017-05-16
+end-3	Live - Unique	WBGene00001311	WBGene00001311						Public name for WBGene00001311. History: N.A.
+nhr-35	Live - Unique	WBGene00003628	WBGene00003628						Public name for WBGene00003628. History: N.A.
+col-144	Live - Unique	WBGene00000717	WBGene00000717						Public name for WBGene00000717. History: N.A.
+tax-4	Live - Unique	WBGene00006526	WBGene00006526						Public name for WBGene00006526. History: N.A.
+M01E5.5	Live - Unique	WBGene00006595		WBGene00006595					Sequence name for WBGene00006595(top-1). History: N.A.
+top-1	Live - Unique	WBGene00006595	WBGene00006595						Public name for WBGene00006595. History: N.A.
+Y61A9LA.5	Live - Unique	WBGene00022017	WBGene00022017	WBGene00022017	WBGene00022017				Public name for WBGene00022017. History: N.A.
+B0491.5	Live - Unique	WBGene00007192		WBGene00007192	WBGene00007192				Sequence name for WBGene00007192(nduf-11). History: N.A.
+aakg-1	Live - Unique	WBGene00013732	WBGene00013732						Public name for WBGene00013732. History: N.A.
+Y47G6A.10	Live - Unique	WBGene00004978		WBGene00004978	WBGene00004978				Sequence name for WBGene00004978(spg-7). History: Renamed on 2005-03-17; Renamed on 2015-03-05
+C05D11.2	Live - Unique	WBGene00006516		WBGene00006516	WBGene00006516				Sequence name for WBGene00006516(vps-16). History: N.A.
+vps-16	Live - Unique	WBGene00006516	WBGene00006516						Public name for WBGene00006516. History: N.A.
+rpt-6	Live - Unique	WBGene00004506	WBGene00004506						Public name for WBGene00004506. History: N.A.
+BE10.2	Live - Unique	WBGene00007210		WBGene00007210	WBGene00007210				Sequence name for WBGene00007210(agmo-1). History: Renamed on 2015-03-25
+C56E6.1	Live - Unique	WBGene00006522		WBGene00006522	WBGene00006522				Sequence name for WBGene00006522(abcx-1). History: Split into "WBGene00195085" on 2010-05-06. Public name for Dead gene WBGene00016969. History of WBGene00016969: Merged into "WBGene00006522" on 2005-10-05
+nhr-80	Live - Unique	WBGene00003670	WBGene00003670						Public name for WBGene00003670. History: N.A.
+rle-1	Live - Unique	WBGene00010923	WBGene00010923						Public name for WBGene00010923. History: N.A.
+pek-1	Live - Unique	WBGene00003970	WBGene00003970						Public name for WBGene00003970. History: N.A.
+npa-1	Live - Unique	WBGene00003786	WBGene00003786						Public name for WBGene00003786. History: N.A.
+B0464.7	Live - Unique	WBGene00000235		WBGene00000235	WBGene00000235				Sequence name for WBGene00000235(baf-1). History: Renamed on 2006-12-04
+T01G9.4	Live - Unique	WBGene00003788		WBGene00003788	WBGene00003788				Sequence name for WBGene00003788(npp-2). History: N.A.
+npp-2	Live - Unique	WBGene00003788	WBGene00003788						Public name for WBGene00003788. History: N.A.
+inx-8	Live - Unique	WBGene00002130	WBGene00002130						Public name for WBGene00002130. History: N.A.
+acdh-13	Live - Unique	WBGene00001566	WBGene00001566						Public name for WBGene00001566. History: Renamed on 2008-04-17
+Y75B8A.13	Live - Unique	WBGene00013549	WBGene00013549	WBGene00013549	WBGene00013549				Public name for WBGene00013549. History: N.A.
+rpn-3	Live - Unique	WBGene00004460	WBGene00004460						Public name for WBGene00004460. History: N.A.
+maoc-1	Live - Unique	WBGene00017123	WBGene00017123						Public name for WBGene00017123. History: N.A.
+ins-7	Live - Unique	WBGene00002090	WBGene00002090						Public name for WBGene00002090. History: N.A.
+mekk-3	Live - Multiple Gene IDs	WBGene00013694	WBGene00013694			WBGene00017578			Public name for WBGene00013694. History: N.A.. Other name for WBGene00017578(drl-1). History: N.A.
+F42A6.1	Live - Unique	WBGene00018323	WBGene00018323	WBGene00018323	WBGene00018323				Public name for WBGene00018323. History: N.A.
+elt-5	Live - Unique	WBGene00001186				WBGene00001186			Other name for WBGene00001186(egl-18). History: N.A.
+rps-10	Live - Unique	WBGene00004479	WBGene00004479						Public name for WBGene00004479. History: N.A.
+rpn-2	Live - Unique	WBGene00004459	WBGene00004459						Public name for WBGene00004459. History: N.A.
+F21H12.1	Live - Unique	WBGene00017683		WBGene00017683	WBGene00017683				Sequence name for WBGene00017683(rbbp-5). History: Renamed on 2012-12-05
+let-363	Live - Unique	WBGene00002583	WBGene00002583						Public name for WBGene00002583. History: Renamed on 2014-09-04; Renamed on 2014-10-09; Renamed on 2015-01-08; Renamed on 2015-03-05; Renamed on 2015-03-10
+bir-2	Live - Unique	WBGene00000250	WBGene00000250						Public name for WBGene00000250. History: N.A.
+aakg-4	Live - Unique	WBGene00020135	WBGene00020135						Public name for WBGene00020135. History: N.A.
+asm-1	Live - Unique	WBGene00000211	WBGene00000211						Public name for WBGene00000211. History: N.A.
+clk-8	Live - Unique	WBGene00014027				WBGene00014027			Other name for WBGene00014027(tpk-1). History: N.A.
+ZC250.3	Live - Unique	WBGene00022577		WBGene00022577	WBGene00022577				Sequence name for WBGene00022577(nstp-3). History: N.A.
+nhr-8	Live - Unique	WBGene00003607	WBGene00003607						Public name for WBGene00003607. History: N.A.
+odr-3	Live - Unique	WBGene00003850	WBGene00003850						Public name for WBGene00003850. History: N.A.
+rpn-6	Live - Unique	WBGene00004462				WBGene00004462			Other name for WBGene00004462(rpn-6.1). History: N.A.
+cul-4	Live - Unique	WBGene00000839	WBGene00000839						Public name for WBGene00000839. History: N.A.
+sid-1	Live - Unique	WBGene00004795	WBGene00004795						Public name for WBGene00004795. History: Renamed on 2013-10-16
+nhr-214	Live - Unique	WBGene00011566	WBGene00011566						Public name for WBGene00011566. History: N.A.
+egl-27	Live - Unique	WBGene00001194	WBGene00001194						Public name for WBGene00001194. History: N.A.
+rpl-19	Live - Unique	WBGene00004431	WBGene00004431						Public name for WBGene00004431. History: N.A.
+mtl-1	Live - Unique	WBGene00003473	WBGene00003473						Public name for WBGene00003473. History: N.A.
+aha-1	Live - Unique	WBGene00000095	WBGene00000095						Public name for WBGene00000095. History: N.A.
+ocr-2	Live - Unique	WBGene00003839	WBGene00003839						Public name for WBGene00003839. History: N.A.
+T28A8.6	Live - Unique	WBGene00012112	WBGene00012112	WBGene00012112	WBGene00012112				Public name for WBGene00012112. History: N.A.
+nuc-1	Live - Unique	WBGene00003828	WBGene00003828						Public name for WBGene00003828. History: N.A.
+fbp-1	Live - Unique	WBGene00001404	WBGene00001404						Public name for WBGene00001404. History: N.A.
+W05B2.5	Live - Unique	WBGene00000668		WBGene00000668	WBGene00000668				Sequence name for WBGene00000668(col-93). History: N.A.
+Y53C10A.12	Live - Unique	WBGene00002004		WBGene00002004	WBGene00002004				Sequence name for WBGene00002004(hsf-1). History: N.A.
+hsf-1	Live - Unique	WBGene00002004	WBGene00002004						Public name for WBGene00002004. History: N.A.
+R12B2.6	Live - Unique	WBGene00020020	WBGene00020020	WBGene00020020	WBGene00020020				Public name for WBGene00020020. History: N.A.
+zig-6	Live - Unique	WBGene00006983	WBGene00006983						Public name for WBGene00006983. History: N.A.
+end-1	Live - Unique	WBGene00001310	WBGene00001310						Public name for WBGene00001310. History: N.A.
+T20G5.8	Live - Unique	WBGene00011870	WBGene00011870	WBGene00011870	WBGene00011870				Public name for WBGene00011870. History: N.A.
+gpi-1	Live - Unique	WBGene00013597	WBGene00013597						Public name for WBGene00013597. History: N.A.
+D2085.3	Live - Unique	WBGene00008428		WBGene00008428	WBGene00008428				Sequence name for WBGene00008428(eif-2Bepsilon). History: N.A.
+Y50D4B.6	Live - Unique	WBGene00021745	WBGene00021745	WBGene00021745	WBGene00021745				Public name for WBGene00021745. History: N.A.
+Y62E10A.17	Live - Unique	WBGene00013383		WBGene00013383					Sequence name for WBGene00013383(aptf-2). History: Renamed on 2013-11-11
+oga-1	Live - Unique	WBGene00020596	WBGene00020596						Public name for WBGene00020596. History: N.A.
+Y39B6A.24	Live - Unique	WBGene00012683		WBGene00012683	WBGene00012683				Sequence name for WBGene00012683(asp-17). History: N.A.
+F26E4.4	Live - Unique	WBGene00009159	WBGene00009159	WBGene00009159	WBGene00009159				Public name for WBGene00009159. History: N.A.
+pie-1	Live - Unique	WBGene00004027	WBGene00004027						Public name for WBGene00004027. History: N.A.
+F45E1.6	Live - Unique	WBGene00001945		WBGene00001945	WBGene00001945				Sequence name for WBGene00001945(his-71). History: N.A.
+his-71	Live - Unique	WBGene00001945	WBGene00001945						Public name for WBGene00001945. History: N.A.
+K01C8.6	Live - Unique	WBGene00010458		WBGene00010458	WBGene00010458				Sequence name for WBGene00010458(mrpl-10). History: N.A.
+nhr-231	Live - Unique	WBGene00012449	WBGene00012449						Public name for WBGene00012449. History: N.A.
+nhr-170	Live - Unique	WBGene00008309	WBGene00008309						Public name for WBGene00008309. History: N.A.
+ZC518.3	Live - Unique	WBGene00000376		WBGene00000376					Sequence name for WBGene00000376(ccr-4). History: N.A.
+ccr-4	Live - Unique	WBGene00000376	WBGene00000376						Public name for WBGene00000376. History: N.A.
+aat-2	Live - Unique	WBGene00000003	WBGene00000003						Public name for WBGene00000003. History: N.A.
+C01F1.2	Live - Unique	WBGene00015297		WBGene00015297	WBGene00015297				Sequence name for WBGene00015297(sco-1). History: N.A.
+nuo-4	Live - Unique	WBGene00019401	WBGene00019401						Public name for WBGene00019401. History: N.A.
+lin-23	Live - Unique	WBGene00003009	WBGene00003009						Public name for WBGene00003009. History: N.A.
+clk-7	Live - Unique	WBGene00202508	WBGene00202508						Public name for WBGene00202508. History: N.A.
+C06G1.1	Live - Unique	WBGene00015545	WBGene00015545	WBGene00015545					Public name for WBGene00015545. History: N.A.
+C29F9.1	Live - Unique	WBGene00016216		WBGene00016216	WBGene00016216				Sequence name for WBGene00016216(pals-22). History: N.A.
+ced-4	Live - Unique	WBGene00000418	WBGene00000418						Public name for WBGene00000418. History: N.A.
+rpl-9	Live - Unique	WBGene00004420	WBGene00004420						Public name for WBGene00004420. History: N.A.
+elt-6	Live - Unique	WBGene00001253	WBGene00001253						Public name for WBGene00001253. History: N.A.
+W04G3.2	Live - Unique	WBGene00012256		WBGene00012256	WBGene00012256				Sequence name for WBGene00012256(lpr-5). History: N.A.
+C48E7.2	Live - Unique	WBGene00016750		WBGene00016750	WBGene00016750				Sequence name for WBGene00016750(let-611). History: N.A.
+elpc-4	Live - Unique	WBGene00016128	WBGene00016128						Public name for WBGene00016128. History: N.A.
+T22B11.2	Live - Unique	WBGene00044620		WBGene00044620	WBGene00044620				Sequence name for WBGene00044620(bus-4). History: N.A.. Public name for Dead gene WBGene00020676. History of WBGene00020676: Merged into "WBGene00044620" on 2010-11-16
+daf-20	Live - Unique	WBGene00000908				WBGene00000908			Other name for WBGene00000908(daf-12). History: Renamed on 2007-10-19
+T02H6.11	Live - Unique	WBGene00020181	WBGene00020181	WBGene00020181	WBGene00020181				Public name for WBGene00020181. History: Renamed on 2005-03-17
+cul-6	Live - Unique	WBGene00000841	WBGene00000841						Public name for WBGene00000841. History: N.A.
+M57.2	Live - Unique	WBGene00019778	WBGene00019778	WBGene00019778					Public name for WBGene00019778. History: N.A.
+T20D4.7	Live - Unique	WBGene00020613	WBGene00020613	WBGene00020613	WBGene00020613				Public name for WBGene00020613. History: N.A.
+daf-9	Live - Unique	WBGene00000905	WBGene00000905						Public name for WBGene00000905. History: Renamed on 2004-09-21
+F39H11.2	Live - Unique	WBGene00006577		WBGene00006577					Sequence name for WBGene00006577(tlf-1). History: N.A.
+tlf-1	Live - Unique	WBGene00006577	WBGene00006577						Public name for WBGene00006577. History: N.A.
+qns-1	Live - Unique	WBGene00007698	WBGene00007698						Public name for WBGene00007698. History: N.A.
+rpt-1	Live - Unique	WBGene00004501	WBGene00004501						Public name for WBGene00004501. History: N.A.
+fat-3	Live - Unique	WBGene00001395	WBGene00001395						Public name for WBGene00001395. History: N.A.
+F44B9.3	Live - Unique	WBGene00000508		WBGene00000508					Sequence name for WBGene00000508(cit-1.2). History: N.A.
+cit-1.2	Live - Unique	WBGene00000508	WBGene00000508						Public name for WBGene00000508. History: N.A.
+F49C12.9	Live - Unique	WBGene00009878	WBGene00009878	WBGene00009878	WBGene00009878				Public name for WBGene00009878. History: N.A.
+ifta-2	Live - Unique	WBGene00012132	WBGene00012132						Public name for WBGene00012132. History: N.A.
+F29G6.1	Live - Unique	WBGene00009257	WBGene00009257	WBGene00009257	WBGene00009257				Public name for WBGene00009257. History: N.A.
+dod-11	Live - Unique	WBGene00010790				WBGene00010790			Other name for WBGene00010790(sodh-1). History: Renamed on 2004-08-25
+C11H1.3	Live - Unique	WBGene00007529	WBGene00007529	WBGene00007529	WBGene00007529				Public name for WBGene00007529. History: N.A.
+unc-51	Live - Unique	WBGene00006786	WBGene00006786						Public name for WBGene00006786. History: Renamed on 2008-02-29
+gei-9	Live - Unique	WBGene00001566				WBGene00001566			Other name for WBGene00001566(acdh-13). History: Renamed on 2008-04-17
+par-5	Live - Unique	WBGene00003920	WBGene00003920						Public name for WBGene00003920. History: N.A.
+F30A10.10	Live - Unique	WBGene00009267		WBGene00009267					Sequence name for WBGene00009267(usp-48). History: N.A.
+F33H2.8	Live - Unique	WBGene00009371	WBGene00009371	WBGene00009371					Public name for WBGene00009371. History: N.A.
+T07D3.7	Live - Unique	WBGene00000106		WBGene00000106					Sequence name for WBGene00000106(alg-2). History: N.A.
+alg-2	Live - Unique	WBGene00000106	WBGene00000106						Public name for WBGene00000106. History: N.A.
+M03F4.7	Live - Unique	WBGene00019760		WBGene00019760					Sequence name for WBGene00019760(calu-1). History: N.A.
+faah-1	Live - Unique	WBGene00015047	WBGene00015047						Public name for WBGene00015047. History: Renamed on 2017-04-04
+jun-1	Live - Unique	WBGene00012005	WBGene00012005						Public name for WBGene00012005. History: N.A.
+daf-3	Live - Unique	WBGene00000899	WBGene00000899						Public name for WBGene00000899. History: N.A.
+lgg-1	Live - Unique	WBGene00002980	WBGene00002980						Public name for WBGene00002980. History: Renamed on 2008-02-29
+gpd-2	Live - Unique	WBGene00001684	WBGene00001684						Public name for WBGene00001684. History: N.A.
+rps-6	Live - Unique	WBGene00004475	WBGene00004475						Public name for WBGene00004475. History: N.A.
+rpn-1	Live - Unique	WBGene00004458	WBGene00004458						Public name for WBGene00004458. History: N.A.
+clk-4	Live - Unique	WBGene00202505	WBGene00202505						Public name for WBGene00202505. History: N.A.
+atfs-1	Live - Unique	WBGene00013878	WBGene00013878						Public name for WBGene00013878. History: N.A.
+ral-1	Live - Unique	WBGene00021811	WBGene00021811						Public name for WBGene00021811. History: N.A.
+K10H10.4	Live - Unique	WBGene00010760	WBGene00010760	WBGene00010760					Public name for WBGene00010760. History: N.A.
+dod-5	Live - Unique	WBGene00004997				WBGene00004997			Other name for WBGene00004997(spp-12). History: Renamed on 2004-08-25
+dod-13	Live - Unique	WBGene00019472				WBGene00019472			Other name for WBGene00019472(cyp-35B1). History: Renamed on 2004-08-25
+ragc-1	Live - Unique	WBGene00012497	WBGene00012497						Public name for WBGene00012497. History: N.A.
+C10G11.5	Live - Unique	WBGene00004068		WBGene00004068					Sequence name for WBGene00004068(pnk-1). History: N.A.
+pnk-1	Live - Unique	WBGene00004068	WBGene00004068						Public name for WBGene00004068. History: N.A.
+ife-2	Live - Unique	WBGene00002060	WBGene00002060						Public name for WBGene00002060. History: N.A.
+pgl-3	Live - Unique	WBGene00003994	WBGene00003994						Public name for WBGene00003994. History: Renamed on 2005-10-06
+T06D8.6	Live - Unique	WBGene00011527		WBGene00011527	WBGene00011527				Sequence name for WBGene00011527(cchl-1). History: N.A.
+cutl-28	Live - Unique	WBGene00018256	WBGene00018256						Public name for WBGene00018256. History: N.A.
+dao-3	Live - Unique	WBGene00000929	WBGene00000929						Public name for WBGene00000929. History: N.A.
+mev-1	Live - Unique	WBGene00003225	WBGene00003225						Public name for WBGene00003225. History: Renamed on 2006-07-19
+rict-1	Live - Unique	WBGene00009245	WBGene00009245						Public name for WBGene00009245. History: Renamed on 2009-04-22
+C14A4.9	Live - Unique	WBGene00007560	WBGene00007560	WBGene00007560	WBGene00007560				Public name for WBGene00007560. History: N.A.
+ogt-1	Live - Unique	WBGene00003858	WBGene00003858						Public name for WBGene00003858. History: N.A.
+T05G5.10	Live - Unique	WBGene00002064		WBGene00002064					Sequence name for WBGene00002064(iff-1). History: N.A.
+nhr-125	Live - Unique	WBGene00003715	WBGene00003715						Public name for WBGene00003715. History: N.A.
+sem-5	Live - Unique	WBGene00004774	WBGene00004774						Public name for WBGene00004774. History: N.A.
+mars-1	Live - Unique	WBGene00003415	WBGene00003415						Public name for WBGene00003415. History: Renamed on 2010-01-29; Renamed on 2015-03-25
+cco-2	Live - Unique	WBGene00012553				WBGene00012553			Other name for WBGene00012553(cox-5A). History: Renamed on 2017-09-05
+pgp-7	Live - Unique	WBGene00004001	WBGene00004001						Public name for WBGene00004001. History: N.A.
+C01F6.1	Live - Unique	WBGene00007221		WBGene00007221	WBGene00007221				Sequence name for WBGene00007221(cpna-3). History: N.A.
+eak-6	Live - Unique	WBGene00008663	WBGene00008663						Public name for WBGene00008663. History: N.A.
+osm-3	Live - Unique	WBGene00003884	WBGene00003884						Public name for WBGene00003884. History: N.A.
+fat-7	Live - Unique	WBGene00001399	WBGene00001399						Public name for WBGene00001399. History: N.A.
+dve-1	Live - Unique	WBGene00022861	WBGene00022861						Public name for WBGene00022861. History: N.A.
+K01C8.7	Live - Unique	WBGene00010459		WBGene00010459					Sequence name for WBGene00010459(slc-25A32). History: N.A.
+skr-5	Live - Unique	WBGene00004811	WBGene00004811						Public name for WBGene00004811. History: N.A.
+H27M09.1	Live - Unique	WBGene00019245		WBGene00019245	WBGene00019245				Sequence name for WBGene00019245(sacy-1). History: N.A.
+pas-6	Live - Unique	WBGene00003927	WBGene00003927						Public name for WBGene00003927. History: N.A.
+pod-1	Live - Unique	WBGene00004075	WBGene00004075						Public name for WBGene00004075. History: N.A.
+ets-4	Live - Unique	WBGene00017687	WBGene00017687						Public name for WBGene00017687. History: N.A.
+F32A5.1	Live - Unique	WBGene00017967		WBGene00017967					Sequence name for WBGene00017967(ada-2). History: N.A.
+ada-2	Live - Unique	WBGene00017967	WBGene00017967						Public name for WBGene00017967. History: N.A.
+F22D6.3	Live - Unique	WBGene00003815		WBGene00003815					Sequence name for WBGene00003815(nars-1). History: Renamed on 2010-01-29; Renamed on 2015-03-05
+ddl-2	Live - Unique	WBGene00013000	WBGene00013000						Public name for WBGene00013000. History: N.A.
+C26B9.3	Live - Unique	WBGene00016133	WBGene00016133	WBGene00016133	WBGene00016133				Public name for WBGene00016133. History: N.A.
+dod-17	Live - Unique	WBGene00010745	WBGene00010745						Public name for WBGene00010745. History: N.A.
+R53.4	Live - Unique	WBGene00011273	WBGene00011273	WBGene00011273	WBGene00011273				Public name for WBGene00011273. History: N.A.
+rpn-7	Live - Unique	WBGene00004463	WBGene00004463						Public name for WBGene00004463. History: N.A.
+nspb-7	Live - Split	WBGene00007243	WBGene00007243				WBGene00044333		Public name for WBGene00007243. History: Split into C01G12.13(WBGene00044333). History of WBGene00007243: N.A.
+sqt-1	Live - Unique	WBGene00005016	WBGene00005016						Public name for WBGene00005016. History: N.A.
+age-1	Live - Unique	WBGene00000090	WBGene00000090						Public name for WBGene00000090. History: N.A.
+M04B2.1	Live - Unique	WBGene00003218		WBGene00003218	WBGene00003218				Sequence name for WBGene00003218(mep-1). History: N.A.
+mep-1	Live - Unique	WBGene00003218	WBGene00003218						Public name for WBGene00003218. History: N.A.
+vhl-1	Live - Unique	WBGene00006922	WBGene00006922						Public name for WBGene00006922. History: N.A.
+nhr-21	Live - Unique	WBGene00003620	WBGene00003620						Public name for WBGene00003620. History: N.A.
+B0546.3	Live - Unique	WBGene00015250	WBGene00015250	WBGene00015250					Public name for WBGene00015250. History: N.A.
+mdl-1	Live - Unique	WBGene00003163	WBGene00003163						Public name for WBGene00003163. History: N.A.
+tcer-1	Live - Unique	WBGene00022855	WBGene00022855						Public name for WBGene00022855. History: Renamed on 2017-10-09
+daf-10	Live - Unique	WBGene00000906	WBGene00000906						Public name for WBGene00000906. History: N.A.
+aak-1	Live - Unique	WBGene00019801	WBGene00019801						Public name for WBGene00019801. History: N.A.
+F28D1.9	Live - Unique	WBGene00009218		WBGene00009218	WBGene00009218				Sequence name for WBGene00009218(acs-20). History: N.A.
+gcy-18	Live - Unique	WBGene00001543	WBGene00001543						Public name for WBGene00001543. History: N.A.
+C29F9.2	Live - Unique	WBGene00016217	WBGene00016217	WBGene00016217	WBGene00016217				Public name for WBGene00016217. History: N.A.
+daf-12	Live - Unique	WBGene00000908	WBGene00000908						Public name for WBGene00000908. History: Renamed on 2007-10-19
+fem-3	Live - Unique	WBGene00001413	WBGene00001413						Public name for WBGene00001413. History: N.A.
+Y54G2A.31	Live - Unique	WBGene00006708		WBGene00006708	WBGene00006708				Sequence name for WBGene00006708(ubc-13). History: N.A.
+rheb-1	Live - Unique	WBGene00010038	WBGene00010038						Public name for WBGene00010038. History: N.A.
+nmur-1	Live - Unique	WBGene00016747	WBGene00016747						Public name for WBGene00016747. History: N.A.
+W09C5.8	Live - Unique	WBGene00012354		WBGene00012354	WBGene00012354				Sequence name for WBGene00012354(cox-4). History: N.A.
+F40F12.7	Live - Unique	WBGene00009595		WBGene00009595	WBGene00009595				Sequence name for WBGene00009595(cbp-3). History: N.A.
+scl-1	Live - Unique	WBGene00004742	WBGene00004742						Public name for WBGene00004742. History: N.A.
+T06G6.4	Live - Unique	WBGene00011546	WBGene00011546	WBGene00011546	WBGene00011546				Public name for WBGene00011546. History: N.A.
+C36H8.1	Live - Unique	WBGene00007987	WBGene00007987	WBGene00007987	WBGene00007987				Public name for WBGene00007987. History: N.A.
+C06G1.4	Live - Unique	WBGene00015547		WBGene00015547	WBGene00015547				Sequence name for WBGene00015547(ain-1). History: N.A.
+ain-1	Live - Unique	WBGene00015547	WBGene00015547						Public name for WBGene00015547. History: N.A.
+ugt-9	Live - Unique	WBGene00020587	WBGene00020587						Public name for WBGene00020587. History: N.A.
+shc-1	Live - Unique	WBGene00018788	WBGene00018788						Public name for WBGene00018788. History: N.A.
+W03C9.3	Live - Unique	WBGene00004271		WBGene00004271	WBGene00004271				Sequence name for WBGene00004271(rab-7). History: N.A.
+rab-7	Live - Unique	WBGene00004271	WBGene00004271						Public name for WBGene00004271. History: N.A.
+nhr-4	Live - Unique	WBGene00003603	WBGene00003603						Public name for WBGene00003603. History: N.A.
+rskn-1	Live - Unique	WBGene00011352	WBGene00011352						Public name for WBGene00011352. History: N.A.
+T05A1.5	Live - Unique	WBGene00011456	WBGene00011456	WBGene00011456					Public name for WBGene00011456. History: N.A.
+CD4.4	Live - Unique	WBGene00016990		WBGene00016990	WBGene00016990				Sequence name for WBGene00016990(vps-37). History: N.A.
+C40H5.6	Live - Split	WBGene00008048		WBGene00008048	WBGene00008048		WBGene00044585		Sequence name for WBGene00008048(hpo-41). History: Split into C40H5.8(WBGene00044585). History of WBGene00008048: Split into "WBGene00044585" on 2005-06-21
+isw-1	Live - Unique	WBGene00002169	WBGene00002169						Public name for WBGene00002169. History: N.A.
+F54H12.1	Live - Unique	WBGene00000041		WBGene00000041					Sequence name for WBGene00000041(aco-2). History: N.A.
+skr-13	Live - Unique	WBGene00004819	WBGene00004819						Public name for WBGene00004819. History: N.A.
+C32H11.1	Live - Unique	WBGene00007864		WBGene00007864					Sequence name for WBGene00007864(irg-6). History: N.A.
+dod-1	Live - Unique	WBGene00011671				WBGene00011671			Other name for WBGene00011671(cyp-13A4). History: Renamed on 2004-08-25
+med-1	Live - Unique	WBGene00003180	WBGene00003180						Public name for WBGene00003180. History: N.A.
+rpn-5	Live - Unique	WBGene00004461	WBGene00004461						Public name for WBGene00004461. History: N.A.
+F08B4.7	Live - Unique	WBGene00017238		WBGene00017238	WBGene00017238				Sequence name for WBGene00017238(snrp-3). History: N.A.
+him-5	Live - Unique	WBGene00001864	WBGene00001864						Public name for WBGene00001864. History: N.A.
+skr-12	Live - Unique	WBGene00004818	WBGene00004818						Public name for WBGene00004818. History: N.A.
+lys-8	Live - Unique	WBGene00003097	WBGene00003097						Public name for WBGene00003097. History: N.A.
+H04M03.4	Live - Unique	WBGene00019154		WBGene00019154	WBGene00019154				Sequence name for WBGene00019154(glf-1). History: N.A.
+glf-1	Live - Unique	WBGene00019154	WBGene00019154						Public name for WBGene00019154. History: N.A.
+mes-1	Live - Unique	WBGene00003219	WBGene00003219						Public name for WBGene00003219. History: N.A.
+skr-1	Live - Unique	WBGene00004807	WBGene00004807						Public name for WBGene00004807. History: N.A.
+aco-2	Live - Unique	WBGene00000041	WBGene00000041						Public name for WBGene00000041. History: N.A.
+B0334.8	Live - Unique	WBGene00000090		WBGene00000090					Sequence name for WBGene00000090(age-1). History: N.A.
+daf-5	Live - Unique	WBGene00000901	WBGene00000901						Public name for WBGene00000901. History: N.A.
+cul-2	Live - Unique	WBGene00000837	WBGene00000837						Public name for WBGene00000837. History: Renamed on 2013-05-02
+F14B4.3	Live - Unique	WBGene00008781		WBGene00008781	WBGene00008781				Sequence name for WBGene00008781(rpoa-2). History: N.A.
+vit-2	Live - Unique	WBGene00006926	WBGene00006926						Public name for WBGene00006926. History: N.A.
+sams-1	Live - Unique	WBGene00008205	WBGene00008205						Public name for WBGene00008205. History: Renamed on 2016-06-14
+cul-1	Live - Unique	WBGene00000836	WBGene00000836						Public name for WBGene00000836. History: N.A.
+ahr-1	Live - Unique	WBGene00000096	WBGene00000096						Public name for WBGene00000096. History: N.A.
+tkt-1	Live - Unique	WBGene00008506	WBGene00008506						Public name for WBGene00008506. History: N.A.
+ceh-18	Live - Unique	WBGene00000441	WBGene00000441						Public name for WBGene00000441. History: N.A.
+Y80D3A.5	Live - Unique	WBGene00013585		WBGene00013585	WBGene00013585				Sequence name for WBGene00013585(cyp-42A1). History: N.A.
+cyp-42A1	Live - Unique	WBGene00013585	WBGene00013585						Public name for WBGene00013585. History: N.A.
+atg-10	Live - Unique	WBGene00008427	WBGene00008427						Public name for WBGene00008427. History: N.A.
+F32A5.7	Live - Unique	WBGene00003078		WBGene00003078	WBGene00003078				Sequence name for WBGene00003078(lsm-4). History: N.A.
+lsm-4	Live - Unique	WBGene00003078	WBGene00003078						Public name for WBGene00003078. History: N.A.
+F13B6.1	Live - Unique	WBGene00017416	WBGene00017416	WBGene00017416	WBGene00017416				Public name for WBGene00017416. History: N.A.
+pbs-7	Live - Unique	WBGene00003953	WBGene00003953						Public name for WBGene00003953. History: N.A.
+C35C5.1	Live - Unique	WBGene00004746		WBGene00004746	WBGene00004746				Sequence name for WBGene00004746(sdc-2). History: N.A.
+sdc-2	Live - Unique	WBGene00004746	WBGene00004746						Public name for WBGene00004746. History: N.A.
+rpn-12	Live - Unique	WBGene00004468	WBGene00004468						Public name for WBGene00004468. History: N.A.
+drp-1	Live - Unique	WBGene00001093	WBGene00001093						Public name for WBGene00001093. History: N.A.
+gas-1	Live - Unique	WBGene00001520	WBGene00001520						Public name for WBGene00001520. History: Renamed on 2008-02-26
+cnc-7	Live - Unique	WBGene00010005	WBGene00010005						Public name for WBGene00010005. History: N.A.
+old-1	Live - Unique	WBGene00003862	WBGene00003862						Public name for WBGene00003862. History: N.A.
+F09F7.5	Live - Unique	WBGene00017302	WBGene00017302	WBGene00017302					Public name for WBGene00017302. History: N.A.
+R05A10.5	Live - Unique	WBGene00011022	WBGene00011022	WBGene00011022	WBGene00011022				Public name for WBGene00011022. History: N.A.
+Y76A2A.2	Live - Unique	WBGene00000834		WBGene00000834					Sequence name for WBGene00000834(cua-1). History: N.A.
+cua-1	Live - Unique	WBGene00000834	WBGene00000834						Public name for WBGene00000834. History: N.A.
+cup-4	Live - Unique	WBGene00000845	WBGene00000845						Public name for WBGene00000845. History: N.A.
+atm-1	Live - Unique	WBGene00000227	WBGene00000227						Public name for WBGene00000227. History: N.A.
+ddl-3	Live - Unique	WBGene00013217	WBGene00013217						Public name for WBGene00013217. History: N.A.
+T23F2.1	Live - Split	WBGene00044623		WBGene00044623	WBGene00044623		WBGene00303081		Sequence name for WBGene00044623(bus-8). History: Split into T23F2.13(WBGene00303081). History of WBGene00044623: Renamed on 2008-04-18; Renamed on 2008-04-18; Split into "WBGene00303081" on 2018-03-02. Public name for Dead gene WBGene00020734. History of WBGene00020734: Merged into "WBGene00044623" on 2008-04-18
+tag-249	Live - Split	WBGene00044623				WBGene00044623	WBGene00303081		Other name for WBGene00044623(bus-8). History: Split into T23F2.13(WBGene00303081). History of WBGene00044623: Renamed on 2008-04-18; Renamed on 2008-04-18; Split into "WBGene00303081" on 2018-03-02
+dod-2	Live - Unique	WBGene00009213				WBGene00009213			Other name for WBGene00009213(thn-1). History: Renamed on 2004-08-25
+clk-1	Live - Unique	WBGene00000536	WBGene00000536						Public name for WBGene00000536. History: N.A.
+T27F7.1	Live - Unique	WBGene00020866		WBGene00020866	WBGene00020866				Sequence name for WBGene00020866(vps-24). History: N.A.
+glp-4	Live - Unique	WBGene00006936	WBGene00006936						Public name for WBGene00006936. History: Renamed on 2010-01-29; Renamed on 2015-10-07
+spe-26	Live - Unique	WBGene00004972	WBGene00004972						Public name for WBGene00004972. History: N.A.
+rpn-9	Live - Unique	WBGene00004465	WBGene00004465						Public name for WBGene00004465. History: N.A.
+ril-2	Live - Split	WBGene00007586	WBGene00007586				WBGene00303041		Public name for WBGene00007586. History: Split into C14C10.10(WBGene00303041). History of WBGene00007586: Split into "WBGene00303041" on 2018-03-02
+ftt-2	Live - Unique	WBGene00001502	WBGene00001502						Public name for WBGene00001502. History: N.A.
+lin-14	Live - Unique	WBGene00003003	WBGene00003003						Public name for WBGene00003003. History: N.A.
+Y6D11A.2	Live - Unique	WBGene00021170		WBGene00021170	WBGene00021170				Sequence name for WBGene00021170(arx-4). History: Renamed on 2006-03-03
+arx-4	Live - Unique	WBGene00021170	WBGene00021170						Public name for WBGene00021170. History: Renamed on 2006-03-03
+cyp-35A2	Live - Unique	WBGene00015400	WBGene00015400						Public name for WBGene00015400. History: N.A.
+gpdh-1	Live - Unique	WBGene00009824	WBGene00009824						Public name for WBGene00009824. History: N.A.
+gpdh-2	Live - Unique	WBGene00010778	WBGene00010778						Public name for WBGene00010778. History: N.A.
+lin-4	Live - Unique	WBGene00002993	WBGene00002993						Public name for WBGene00002993. History: N.A.
+nhr-27	Live - Unique	WBGene00008901	WBGene00008901						Public name for WBGene00008901. History: N.A.
+gei-7	Live - Unique	WBGene00001564				WBGene00001564			Other name for WBGene00001564(icl-1). History: Renamed on 2010-11-16
+akt-1	Live - Unique	WBGene00000102	WBGene00000102						Public name for WBGene00000102. History: N.A.
+akt-2	Live - Unique	WBGene00000103	WBGene00000103						Public name for WBGene00000103. History: N.A.
+ttr-1	Live - Unique	WBGene00010541	WBGene00010541						Public name for WBGene00010541. History: N.A.
+F19B6.2	Live - Unique	WBGene00006733		WBGene00006733					Sequence name for WBGene00006733(ufd-1). History: N.A.
+ufd-1	Live - Unique	WBGene00006733	WBGene00006733						Public name for WBGene00006733. History: N.A.
+DY3.2	Live - Unique	WBGene00003052		WBGene00003052	WBGene00003052				Sequence name for WBGene00003052(lmn-1). History: N.A.
+lmn-1	Live - Unique	WBGene00003052	WBGene00003052						Public name for WBGene00003052. History: N.A.
+gcy-33	Live - Unique	WBGene00001553	WBGene00001553						Public name for WBGene00001553. History: N.A.
+aap-1	Live - Unique	WBGene00000001	WBGene00000001						Public name for WBGene00000001. History: N.A.
+mpk-1	Live - Unique	WBGene00003401	WBGene00003401						Public name for WBGene00003401. History: N.A.
+ins-6	Live - Unique	WBGene00002089	WBGene00002089						Public name for WBGene00002089. History: N.A.
+C31H2.1	Live - Unique	WBGene00016292		WBGene00016292					Sequence name for WBGene00016292(tbc-7). History: N.A.
+clk-2	Live - Unique	WBGene00000537	WBGene00000537						Public name for WBGene00000537. History: N.A.
+egl-1	Live - Unique	WBGene00001170	WBGene00001170						Public name for WBGene00001170. History: N.A.
+asm-2	Live - Unique	WBGene00000212	WBGene00000212						Public name for WBGene00000212. History: N.A.
+scl-8	Live - Unique	WBGene00008030	WBGene00008030						Public name for WBGene00008030. History: N.A.
+rpl-30	Live - Unique	WBGene00004444	WBGene00004444						Public name for WBGene00004444. History: N.A.
+pbs-2	Live - Unique	WBGene00003948	WBGene00003948						Public name for WBGene00003948. History: N.A.
+sgk-1	Live - Unique	WBGene00004789	WBGene00004789						Public name for WBGene00004789. History: N.A.
+rsks-1	Live - Unique	WBGene00012929	WBGene00012929						Public name for WBGene00012929. History: N.A.
+abu-11	Live - Unique	WBGene00000034	WBGene00000034						Public name for WBGene00000034. History: N.A.
+mxl-3	Live - Unique	WBGene00003511	WBGene00003511						Public name for WBGene00003511. History: N.A.
+Y56A3A.9	Obsolete - Suppressed								Sequence name for Suppressed gene WBGene00013229. Molecular name for Suppressed gene WBGene00013229. Public name for Suppressed gene WBGene00013229. History of WBGene00013229: Killed on 2008-08-26; Suppressed on 2012-11-26. Remark: This gene was determined to be of Transposon in origin so has been removed from the C. elegans protein set. Detailed information about the origin of this gene can be found in the corresponding Transposon object associated with this gene.
+epc-1	Live - Unique	WBGene00007030	WBGene00007030						Public name for WBGene00007030. History: N.A.
+rpt-4	Live - Unique	WBGene00004504	WBGene00004504						Public name for WBGene00004504. History: N.A.
+eif-1	Live - Split	WBGene00020868	WBGene00020868				WBGene00194986		Public name for WBGene00020868. History: Split into pigb-1(WBGene00194986). History of WBGene00020868: Split into "WBGene00194986" on 2010-02-19
+W03G1.5	Live - Unique	WBGene00021011	WBGene00021011	WBGene00021011	WBGene00021011				Public name for WBGene00021011. History: N.A.
+gpc-1	Live - Unique	WBGene00001681	WBGene00001681						Public name for WBGene00001681. History: N.A.
+F48C1.8	Live - Split	WBGene00018600	WBGene00018600	WBGene00018600	WBGene00018600		WBGene00195179		Public name for WBGene00018600. History: Split into F48C1.11(WBGene00195179). History of WBGene00018600: Split into "WBGene00195179" on 2010-06-23
+hsp-16.49	Live - Unique	WBGene00002020	WBGene00002020						Public name for WBGene00002020. History: N.A.
+pat-6	Live - Unique	WBGene00003932	WBGene00003932						Public name for WBGene00003932. History: N.A.
+pbs-3	Live - Unique	WBGene00003949	WBGene00003949						Public name for WBGene00003949. History: N.A.
+Y43C5A.3	Live - Unique	WBGene00012783	WBGene00012783	WBGene00012783	WBGene00012783				Public name for WBGene00012783. History: N.A.
+K12H4.5	Live - Unique	WBGene00019680	WBGene00019680	WBGene00019680	WBGene00019680				Public name for WBGene00019680. History: N.A.
+Y57G11C.10	Live - Unique	WBGene00001558		WBGene00001558					Sequence name for WBGene00001558(gdi-1). History: N.A.
+gdi-1	Live - Unique	WBGene00001558	WBGene00001558						Public name for WBGene00001558. History: N.A.
+rpt-5	Live - Unique	WBGene00004505	WBGene00004505						Public name for WBGene00004505. History: N.A.
+flr-4	Live - Unique	WBGene00001468	WBGene00001468						Public name for WBGene00001468. History: N.A.
+dod-21	Live - Unique	WBGene00007873	WBGene00007873						Public name for WBGene00007873. History: N.A.
+rps-23	Live - Unique	WBGene00004492	WBGene00004492						Public name for WBGene00004492. History: N.A.
+pmk-1	Live - Unique	WBGene00004055	WBGene00004055						Public name for WBGene00004055. History: N.A.
+pdk-1	Live - Unique	WBGene00003965	WBGene00003965						Public name for WBGene00003965. History: N.A.
+dpy-5	Live - Unique	WBGene00001067	WBGene00001067						Public name for WBGene00001067. History: N.A.
+lmp-1	Live - Unique	WBGene00003053	WBGene00003053						Public name for WBGene00003053. History: N.A.
+eak-7	Live - Unique	WBGene00010671	WBGene00010671						Public name for WBGene00010671. History: N.A.
+rps-26	Live - Unique	WBGene00004495	WBGene00004495						Public name for WBGene00004495. History: N.A.
+gro-1	Live - Unique	WBGene00001740	WBGene00001740						Public name for WBGene00001740. History: N.A.
+lys-7	Live - Unique	WBGene00003096	WBGene00003096						Public name for WBGene00003096. History: N.A.
+pes-2	Live - Unique	WBGene00010158				WBGene00010158			Other name for WBGene00010158(pes-2.2). History: N.A.
+dod-9	Live - Unique	WBGene00016716				WBGene00016716			Other name for WBGene00016716(acs-17). History: Renamed on 2004-08-25
+sos-1	Live - Unique	WBGene00004947	WBGene00004947						Public name for WBGene00004947. History: N.A.
+F54C4.2	Live - Unique	WBGene00005014		WBGene00005014	WBGene00005014				Sequence name for WBGene00005014(spt-4). History: N.A.
+K10B4.3	Live - Unique	WBGene00019615	WBGene00019615	WBGene00019615	WBGene00019615				Public name for WBGene00019615. History: N.A.
+nspe-7	Live - Unique	WBGene00012593	WBGene00012593						Public name for WBGene00012593. History: N.A.
+col-127	Live - Unique	WBGene00000701	WBGene00000701						Public name for WBGene00000701. History: N.A.
+daf-1	Live - Unique	WBGene00000897	WBGene00000897						Public name for WBGene00000897. History: N.A.
+F30A10.6	Live - Unique	WBGene00009264		WBGene00009264	WBGene00009264				Sequence name for WBGene00009264(sac-1). History: N.A.
+dod-12	Live - Unique	WBGene00016943				WBGene00016943			Other name for WBGene00016943(acdh-1). History: Renamed on 2004-08-25
+asp-3	Live - Unique	WBGene00000216	WBGene00000216						Public name for WBGene00000216. History: N.A.
+bec-1	Live - Unique	WBGene00000247	WBGene00000247						Public name for WBGene00000247. History: Renamed on 2008-02-29
+gpa-11	Live - Unique	WBGene00001673	WBGene00001673						Public name for WBGene00001673. History: N.A.
+D2085.5	Live - Unique	WBGene00008430		WBGene00008430					Sequence name for WBGene00008430(hgap-2). History: N.A.
+ril-1	Live - Unique	WBGene00008262	WBGene00008262						Public name for WBGene00008262. History: N.A.
+ZK593.7	Live - Unique	WBGene00003081		WBGene00003081	WBGene00003081				Sequence name for WBGene00003081(lsm-7). History: N.A.
+lsm-7	Live - Unique	WBGene00003081	WBGene00003081						Public name for WBGene00003081. History: N.A.
+Y17G7B.5	Live - Unique	WBGene00003154		WBGene00003154					Sequence name for WBGene00003154(mcm-2). History: N.A.
+mcm-2	Live - Unique	WBGene00003154	WBGene00003154						Public name for WBGene00003154. History: N.A.
+drr-1	Live - Unique	WBGene00009741	WBGene00009741						Public name for WBGene00009741. History: N.A.
+Y39G10AL.3	Live - Unique	WBGene00000408		WBGene00000408	WBGene00000408				Sequence name for WBGene00000408(cdk-7). History: N.A.
+taf-4	Live - Unique	WBGene00006385	WBGene00006385						Public name for WBGene00006385. History: N.A.
+mtl-2	Live - Unique	WBGene00003474	WBGene00003474						Public name for WBGene00003474. History: N.A.
+rpn-10	Live - Unique	WBGene00004466	WBGene00004466						Public name for WBGene00004466. History: N.A.
+lgg-3	Live - Unique	WBGene00002982	WBGene00002982						Public name for WBGene00002982. History: Renamed on 2007-03-15
+cnc-2	Live - Unique	WBGene00000556	WBGene00000556						Public name for WBGene00000556. History: N.A.
+let-60	Live - Unique	WBGene00002335	WBGene00002335						Public name for WBGene00002335. History: N.A.
+raga-1	Live - Unique	WBGene00006414	WBGene00006414						Public name for WBGene00006414. History: Renamed on 2007-07-20
+dod-19	Live - Unique	WBGene00022644	WBGene00022644						Public name for WBGene00022644. History: N.A.
+Y39C12A.2	Live - Unique	WBGene00014883	WBGene00014883	WBGene00014883	WBGene00014883				Public name for WBGene00014883. History: Killed on 2009-01-20; Resurrected on 2009-03-12
+igf-1	Live - Unique	WBGene00002101				WBGene00002101			Other name for WBGene00002101(ins-18). History: N.A.
+fat-2	Live - Unique	WBGene00001394	WBGene00001394						Public name for WBGene00001394. History: N.A.
+tub-1	Live - Unique	WBGene00006655	WBGene00006655						Public name for WBGene00006655. History: N.A.
+dod-22	Live - Unique	WBGene00010125	WBGene00010125						Public name for WBGene00010125. History: N.A.
+dox-1	Live - Unique	WBGene00013128				WBGene00013128			Other name for WBGene00013128(dxbp-1). History: N.A.
+ash-2	Live - Unique	WBGene00012458	WBGene00012458						Public name for WBGene00012458. History: N.A.
+dod-7	Live - Unique	WBGene00010769				WBGene00010769			Other name for WBGene00010769(asah-1). History: Renamed on 2004-08-25
+mes-4	Live - Unique	WBGene00003222	WBGene00003222						Public name for WBGene00003222. History: N.A.
+unc-70	Live - Unique	WBGene00006803	WBGene00006803						Public name for WBGene00006803. History: N.A.
+C09D4.5	Live - Unique	WBGene00004431		WBGene00004431	WBGene00004431				Sequence name for WBGene00004431(rpl-19). History: N.A.
+atg-3	Live - Unique	WBGene00021922	WBGene00021922						Public name for WBGene00021922. History: N.A.
+nuo-3	Live - Split	WBGene00013308	WBGene00013308				WBGene00303007		Public name for WBGene00013308. History: Split into Y57G11C.1147(WBGene00303007). History of WBGene00013308: Split into "WBGene00303007" on 2018-03-06
+gcp-1	Live - Unique	WBGene00000781				WBGene00000781			Other name for WBGene00000781(cpr-1). History: N.A.
+dod-20	Live - Unique	WBGene00015259	WBGene00015259						Public name for WBGene00015259. History: N.A.
+skr-8	Live - Unique	WBGene00004814	WBGene00004814						Public name for WBGene00004814. History: N.A.
+cul-3	Live - Unique	WBGene00000838	WBGene00000838						Public name for WBGene00000838. History: N.A.
+hsp-16	Live - Multiple Gene IDs	WBGene00002015, WBGene00002016, WBGene00002017, WBGene00002018, WBGene00002019, WBGene00002020				WBGene00002015, WBGene00002016, WBGene00002017, WBGene00002018, WBGene00002019, WBGene00002020			Other name for WBGene00002015(hsp-16.1). History: N.A.. Other name for WBGene00002016(hsp-16.2). History: N.A.. Other name for WBGene00002017(hsp-16.11). History: N.A.. Other name for WBGene00002018(hsp-16.41). History: N.A.. Other name for WBGene00002019(hsp-16.48). History: N.A.. Other name for WBGene00002020(hsp-16.49). History: N.A.
+skr-20	Live - Unique	WBGene00004826	WBGene00004826						Public name for WBGene00004826. History: N.A.
+Y119C1B.8	Live - Unique	WBGene00022473		WBGene00022473					Sequence name for WBGene00022473(bet-1). History: Renamed on 2010-02-04
+tag-332	Live - Unique	WBGene00022473				WBGene00022473			Other name for WBGene00022473(bet-1). History: Renamed on 2010-02-04
+ceh-23	Live - Unique	WBGene00000446	WBGene00000446						Public name for WBGene00000446. History: N.A.
+gcy-6	Live - Unique	WBGene00001533	WBGene00001533						Public name for WBGene00001533. History: N.A.
+F41H10.7	Live - Unique	WBGene00001243		WBGene00001243	WBGene00001243				Sequence name for WBGene00001243(elo-5). History: N.A.
+elo-5	Live - Unique	WBGene00001243	WBGene00001243						Public name for WBGene00001243. History: N.A.
+atg-16.2	Live - Unique	WBGene00019427	WBGene00019427						Public name for WBGene00019427. History: N.A.
+drl-1	Live - Unique	WBGene00017578	WBGene00017578						Public name for WBGene00017578. History: N.A.
+cdk-2	Live - Unique	WBGene00019362	WBGene00019362						Public name for WBGene00019362. History: N.A.
+F55G11.2	Live - Unique	WBGene00010123	WBGene00010123	WBGene00010123	WBGene00010123				Public name for WBGene00010123. History: N.A.
+pep-2	Live - Unique	WBGene00003877				WBGene00003877			Other name for WBGene00003877(pept-1). History: Renamed on 2009-04-29
+set-26	Live - Unique	WBGene00013106	WBGene00013106						Public name for WBGene00013106. History: N.A.
+osm-5	Live - Unique	WBGene00003885	WBGene00003885						Public name for WBGene00003885. History: N.A.
+C33H5.18	Live - Unique	WBGene00016384		WBGene00016384					Sequence name for WBGene00016384(cdgs-1). History: N.A.
+grl-19	Live - Unique	WBGene00001728	WBGene00001728						Public name for WBGene00001728. History: N.A.
+aakg-5	Live - Unique	WBGene00011276	WBGene00011276						Public name for WBGene00011276. History: N.A.
+dod-4	Live - Unique	WBGene00000169				WBGene00000169			Other name for WBGene00000169(aqp-1). History: Renamed on 2004-08-25
+clk-9	Live - Unique	WBGene00202509	WBGene00202509						Public name for WBGene00202509. History: N.A.
+Y65B4A.3	Live - Unique	WBGene00022027		WBGene00022027	WBGene00022027				Sequence name for WBGene00022027(vps-20). History: N.A.
+rpt-3	Live - Unique	WBGene00004503	WBGene00004503						Public name for WBGene00004503. History: N.A.
+skr-11	Live - Unique	WBGene00004817	WBGene00004817						Public name for WBGene00004817. History: N.A.
+R13H8.1	Live - Unique	WBGene00000912		WBGene00000912					Sequence name for WBGene00000912(daf-16). History: N.A.
+Y55F3AM.3	Live - Unique	WBGene00021921		WBGene00021921					Sequence name for WBGene00021921(rbm-39). History: N.A.
+kin-29	Live - Unique	WBGene00002210	WBGene00002210						Public name for WBGene00002210. History: N.A.
+skr-7	Live - Unique	WBGene00004813	WBGene00004813						Public name for WBGene00004813. History: N.A.
+pas-7	Live - Unique	WBGene00003928	WBGene00003928						Public name for WBGene00003928. History: N.A.
+ZC64.3	Live - Unique	WBGene00000441		WBGene00000441					Sequence name for WBGene00000441(ceh-18). History: N.A.
+T01C8.1	Live - Unique	WBGene00020142		WBGene00020142					Sequence name for WBGene00020142(aak-2). History: N.A.
+dod-24	Live - Unique	WBGene00007875	WBGene00007875						Public name for WBGene00007875. History: N.A.
+ire-1	Live - Unique	WBGene00002147	WBGene00002147						Public name for WBGene00002147. History: N.A.
+C29E6.1	Live - Unique	WBGene00002827		WBGene00002827					Sequence name for WBGene00002827(let-653). History: N.A.
+let-653	Live - Unique	WBGene00002827	WBGene00002827						Public name for WBGene00002827. History: N.A.
+pbs-5	Live - Unique	WBGene00003951	WBGene00003951						Public name for WBGene00003951. History: N.A.
+R09B3.5	Live - Unique	WBGene00003123		WBGene00003123	WBGene00003123				Sequence name for WBGene00003123(mag-1). History: N.A.
+mag-1	Live - Unique	WBGene00003123	WBGene00003123						Public name for WBGene00003123. History: N.A.
+K04C2.5	Live - Unique	WBGene00019382	WBGene00019382	WBGene00019382	WBGene00019382				Public name for WBGene00019382. History: N.A.
+rpl-4	Live - Unique	WBGene00004415	WBGene00004415						Public name for WBGene00004415. History: N.A.
+sek-1	Live - Unique	WBGene00004758	WBGene00004758						Public name for WBGene00004758. History: N.A.
+skr-2	Live - Unique	WBGene00004808	WBGene00004808						Public name for WBGene00004808. History: N.A.
+lgg-2	Live - Unique	WBGene00002981	WBGene00002981						Public name for WBGene00002981. History: Renamed on 2008-02-29
+pat-4	Live - Unique	WBGene00003931	WBGene00003931						Public name for WBGene00003931. History: N.A.
+col-13	Live - Unique	WBGene00000602	WBGene00000602						Public name for WBGene00000602. History: N.A.
+ceh-24	Live - Unique	WBGene00000447	WBGene00000447						Public name for WBGene00000447. History: N.A.
+F26E4.6	Live - Unique	WBGene00009161		WBGene00009161	WBGene00009161				Sequence name for WBGene00009161(cox-7C). History: N.A.
+B0395.2	Live - Unique	WBGene00007174		WBGene00007174	WBGene00007174				Sequence name for WBGene00007174(mboa-1). History: N.A.
+rps-22	Live - Unique	WBGene00004491	WBGene00004491						Public name for WBGene00004491. History: N.A.
+par-4	Live - Unique	WBGene00003919	WBGene00003919						Public name for WBGene00003919. History: N.A.
+K11B4.1	Live - Unique	WBGene00010766		WBGene00010766	WBGene00010766				Sequence name for WBGene00010766(mrps-27). History: N.A.
+inx-9	Live - Unique	WBGene00002131	WBGene00002131						Public name for WBGene00002131. History: N.A.
+pmk-3	Live - Unique	WBGene00004057	WBGene00004057						Public name for WBGene00004057. History: N.A.
+C34B4.1	Live - Unique	WBGene00003143		WBGene00003143					Sequence name for WBGene00003143(max-1). History: N.A.
+daf-28	Live - Unique	WBGene00000920	WBGene00000920						Public name for WBGene00000920. History: N.A.
+pkc-2	Live - Unique	WBGene00004033	WBGene00004033						Public name for WBGene00004033. History: N.A.
+F25D7.3	Live - Unique	WBGene00003847		WBGene00003847					Sequence name for WBGene00003847(blmp-1). History: Renamed on 2005-05-18; Renamed on 2014-08-14
+blmp-1	Live - Unique	WBGene00003847	WBGene00003847						Public name for WBGene00003847. History: Renamed on 2005-05-18; Renamed on 2014-08-14
+asm-3	Live - Unique	WBGene00000213	WBGene00000213						Public name for WBGene00000213. History: N.A.
+ZK973.10	Live - Unique	WBGene00003061		WBGene00003061	WBGene00003061				Sequence name for WBGene00003061(lpd-5). History: Renamed on 2008-02-26
+nhr-147	Live - Unique	WBGene00015395	WBGene00015395						Public name for WBGene00015395. History: N.A.
+Y57G11C.13	Live - Unique	WBGene00000192		WBGene00000192	WBGene00000192				Sequence name for WBGene00000192(arl-8). History: N.A.. Public name for Dead gene WBGene00013309. History of WBGene00013309: Merged into "WBGene00000192" on 2006-09-21
+tax-6	Live - Unique	WBGene00006527	WBGene00006527						Public name for WBGene00006527. History: N.A.
+Y65B4BR.4	Live - Unique	WBGene00007009		WBGene00007009					Sequence name for WBGene00007009(wwp-1). History: N.A.
+pme-1	Live - Unique	WBGene00004049				WBGene00004049			Other name for WBGene00004049(parp-1). History: Renamed on 2014-11-18
+lipl-4	Live - Unique	WBGene00019376	WBGene00019376						Public name for WBGene00019376. History: N.A.
+TOR	Live - Unique	WBGene00002583				WBGene00002583			Other name for WBGene00002583(let-363). History: Renamed on 2014-09-04; Renamed on 2014-10-09; Renamed on 2015-01-08; Renamed on 2015-03-05; Renamed on 2015-03-10
+ced-3	Live - Unique	WBGene00000417	WBGene00000417						Public name for WBGene00000417. History: N.A.
+vha-16	Live - Unique	WBGene00016258	WBGene00016258						Public name for WBGene00016258. History: N.A.
+K11D12.1	Live - Unique	WBGene00000862		WBGene00000862	WBGene00000862				Sequence name for WBGene00000862(cwp-4). History: N.A.
+K11D12.9	Live - Unique	WBGene00019649		WBGene00019649	WBGene00019649				Sequence name for WBGene00019649(exc-14). History: N.A.
+K07H8.8	Live - Unique	WBGene00019508	WBGene00019508	WBGene00019508	WBGene00019508				Public name for WBGene00019508. History: N.A.
+pgl-2	Live - Unique	WBGene00003993	WBGene00003993						Public name for WBGene00003993. History: N.A.
+pgl-1	Live - Unique	WBGene00003992	WBGene00003992						Public name for WBGene00003992. History: N.A.
+osm-6	Live - Unique	WBGene00003886	WBGene00003886						Public name for WBGene00003886. History: N.A.
+W06E11.4	Live - Unique	WBGene00021063		WBGene00021063	WBGene00021063				Sequence name for WBGene00021063(sbds-1). History: N.A.
+C38C3.5	Live - Split	WBGene00006794		WBGene00006794	WBGene00006794		WBGene00302980		Sequence name for WBGene00006794(unc-60). History: Split into F53E2.2(WBGene00302980). History of WBGene00006794: Split into "WBGene00302980" on 2018-03-06
+C01F1.1	Live - Unique	WBGene00015296		WBGene00015296	WBGene00015296				Sequence name for WBGene00015296(gtf-2F1). History: N.A.
+atg-5	Live - Unique	WBGene00022152	WBGene00022152						Public name for WBGene00022152. History: Renamed on 2008-02-29
+Y47G6A.18	Live - Unique	WBGene00021644	WBGene00021644	WBGene00021644	WBGene00021644				Public name for WBGene00021644. History: N.A.
+cdr-5	Live - Unique	WBGene00010473				WBGene00010473			Other name for WBGene00010473(hrg-2). History: Renamed on 2012-02-10
+tbx-2	Live - Unique	WBGene00006543	WBGene00006543						Public name for WBGene00006543. History: Renamed on 2013-07-31
+Y66H1B.4	Live - Unique	WBGene00004981		WBGene00004981	WBGene00004981				Sequence name for WBGene00004981(spl-1). History: N.A.
+spl-1	Live - Unique	WBGene00004981	WBGene00004981						Public name for WBGene00004981. History: N.A.
+R10H10.7	Live - Unique	WBGene00011225	WBGene00011225	WBGene00011225	WBGene00011225				Public name for WBGene00011225. History: N.A.
+C39E9.1	Live - Unique	WBGene00008026		WBGene00008026	WBGene00008026				Sequence name for WBGene00008026(scl-4). History: N.A.
+cye-1	Live - Unique	WBGene00000871	WBGene00000871						Public name for WBGene00000871. History: Renamed on 2015-03-05
+frh-1	Live - Unique	WBGene00001486	WBGene00001486						Public name for WBGene00001486. History: N.A.
+dod-23	Live - Unique	WBGene00009898	WBGene00009898						Public name for WBGene00009898. History: N.A.
+atg-4.1	Live - Unique	WBGene00013595	WBGene00013595						Public name for WBGene00013595. History: N.A.
+ubc-18	Live - Unique	WBGene00006713	WBGene00006713						Public name for WBGene00006713. History: N.A.
+atp-5	Live - Unique	WBGene00007385	WBGene00007385						Public name for WBGene00007385. History: N.A.
+hcf-1	Live - Unique	WBGene00001827	WBGene00001827						Public name for WBGene00001827. History: N.A.
+dod-3	Live - Unique	WBGene00016052	WBGene00016052						Public name for WBGene00016052. History: N.A.
+unc-43	Live - Unique	WBGene00006779	WBGene00006779						Public name for WBGene00006779. History: N.A.
+ttr-5	Live - Unique	WBGene00008040	WBGene00008040						Public name for WBGene00008040. History: N.A.
+drr-2	Live - Unique	WBGene00011730	WBGene00011730						Public name for WBGene00011730. History: N.A.
+hsp-12.6	Live - Unique	WBGene00002013	WBGene00002013						Public name for WBGene00002013. History: Renamed on 2004-07-28
+R11A5.4	Live - Unique	WBGene00011232		WBGene00011232					Sequence name for WBGene00011232(pck-2). History: N.A.
+trpa-1	Live - Unique	WBGene00007801	WBGene00007801						Public name for WBGene00007801. History: N.A.
+C46G7.2	Live - Unique	WBGene00016722	WBGene00016722	WBGene00016722	WBGene00016722				Public name for WBGene00016722. History: N.A.
+Y59A8B.2	Obsolete - Dead	WBGene00008441						WBGene00008441	Public name for Dead gene WBGene00013342. History of WBGene00013342: Merged into "WBGene00008441" on 2008-06-19
+F55B11.1	Live - Unique	WBGene00010083		WBGene00010083	WBGene00010083				Sequence name for WBGene00010083(xdh-1). History: N.A.
+Y57A10A.19	Live - Unique	WBGene00013260		WBGene00013260	WBGene00013260				Sequence name for WBGene00013260(rsr-2). History: N.A.
+F52C6.2	Live - Unique	WBGene00018659	WBGene00018659	WBGene00018659	WBGene00018659				Public name for WBGene00018659. History: N.A.
+pas-1	Live - Unique	WBGene00003922	WBGene00003922						Public name for WBGene00003922. History: N.A.
+C07A9.2	Live - Unique	WBGene00007400		WBGene00007400	WBGene00007400				Sequence name for WBGene00007400(bud-31). History: N.A.
+nlp-7	Live - Unique	WBGene00003745	WBGene00003745						Public name for WBGene00003745. History: N.A.
+atg-18	Live - Unique	WBGene00018294	WBGene00018294						Public name for WBGene00018294. History: Renamed on 2006-04-27; Renamed on 2007-10-19; Renamed on 2008-02-29
+pptr-1	Live - Unique	WBGene00012348	WBGene00012348						Public name for WBGene00012348. History: N.A.
+mml-1	Live - Unique	WBGene00003378	WBGene00003378						Public name for WBGene00003378. History: N.A.
+ins-21	Live - Unique	WBGene00002104	WBGene00002104						Public name for WBGene00002104. History: N.A.
+F37C4.4	Live - Unique	WBGene00018144	WBGene00018144	WBGene00018144					Public name for WBGene00018144. History: N.A.
+F59C6.4	Live - Unique	WBGene00010325		WBGene00010325	WBGene00010325				Sequence name for WBGene00010325(exos-3). History: N.A.
+C06A5.1	Live - Unique	WBGene00015499		WBGene00015499	WBGene00015499				Sequence name for WBGene00015499(ints-1). History: Renamed on 2015-02-09; Renamed on 2019-02-06; Renamed on 2019-05-20
+hif-1	Live - Unique	WBGene00001851	WBGene00001851						Public name for WBGene00001851. History: N.A.
+ftt-1	Live - Unique	WBGene00003920				WBGene00003920			Other name for WBGene00003920(par-5). History: N.A.
+clk-3	Live - Unique	WBGene00000538	WBGene00000538						Public name for WBGene00000538. History: N.A.
+unc-31	Live - Unique	WBGene00006767	WBGene00006767						Public name for WBGene00006767. History: N.A.
+cku-70	Live - Unique	WBGene00000519	WBGene00000519						Public name for WBGene00000519. History: N.A.
+D2030.4	Live - Unique	WBGene00008414	WBGene00008414	WBGene00008414	WBGene00008414				Public name for WBGene00008414. History: N.A.
+cmk-1	Live - Unique	WBGene00000553	WBGene00000553						Public name for WBGene00000553. History: N.A.
+F28B12.3	Live - Unique	WBGene00017895		WBGene00017895	WBGene00017895				Sequence name for WBGene00017895(vrk-1). History: Renamed on 2005-08-19
+vrk-1	Live - Unique	WBGene00017895	WBGene00017895						Public name for WBGene00017895. History: Renamed on 2005-08-19
+atg-7	Live - Unique	WBGene00010882	WBGene00010882						Public name for WBGene00010882. History: Renamed on 2007-03-15; Renamed on 2008-02-29
+K12D12.3	Live - Unique	WBGene00000659		WBGene00000659	WBGene00000659				Sequence name for WBGene00000659(col-84). History: N.A.
+col-84	Live - Unique	WBGene00000659	WBGene00000659						Public name for WBGene00000659. History: N.A.
+K04G7.4	Live - Unique	WBGene00019401		WBGene00019401					Sequence name for WBGene00019401(nuo-4). History: N.A.
+emb-8	Live - Unique	WBGene00001262	WBGene00001262						Public name for WBGene00001262. History: Renamed on 2018-09-18
+tir-1	Live - Unique	WBGene00006575	WBGene00006575						Public name for WBGene00006575. History: Renamed on 2005-11-09
+F41E6.4	Live - Unique	WBGene00018285		WBGene00018285					Sequence name for WBGene00018285(smk-1). History: Renamed on 2007-10-22
+F59C6.5	Live - Unique	WBGene00010326	WBGene00010326	WBGene00010326	WBGene00010326				Public name for WBGene00010326. History: N.A.
+eak-4	Live - Unique	WBGene00009955	WBGene00009955						Public name for WBGene00009955. History: N.A.
+C40H1.8i	Not Found
+fem-15	Not Found
+eif-1A	Not Found
+fem-13	Not Found
+fem-14	Not Found
+ril-3	Not Found
+fem-12	Not Found
+fem-4	Not Found
+fem-17	Not Found
+Ce-atg7	Not Found
+rgb-3	Not Found
+Y50D4A_25.a	Not Found
+mrlp-1	Not Found
+Y71H2_380.a	Not Found
+Y119D3_446.d	Not Found
+Y71H2_390.d	Not Found
+fem-23	Not Found
+jun	Not Found
+B	Not Found
+fem-16	Not Found
+fem-18	Not Found
+rrf3	Not Found
+atk-1	Not Found
+fem-7	Not Found
+Y43H11_160.a	Not Found
+LPL-4	Not Found
+Y66A7A1	Not Found
+hsb	Not Found
+-1	Not Found
+dev-1	Not Found
+fem-10	Not Found
+par-5gs	Not Found
+pha	Not Found
+fem-21	Not Found
+Y39H10A_224.b	Not Found
+fem-5	Not Found
+fem-19	Not Found
+fem-8	Not Found
+Y45F10D.8	Not Found
+pmq-1	Not Found
+fem-20	Not Found
+Y46H3C_13.a	Not Found
+npl-7	Not Found
+fem-6	Not Found
+fem-9	Not Found
+drp1	Not Found
+rff-3	Not Found
+Y71H2_388.c	Not Found
+fem-22	Not Found
+fem-11	Not Found
+ftt-2gs	Not Found
+Y69A2A_2991.c	Not Found
